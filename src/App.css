@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap");
+
 
 * {
   padding: none;
@@ -32,12 +32,12 @@
   font-style: italic;
   font-size: 22px;
   background-color: rgba(255, 255, 255, 0.185);
-  font-family: "Rubik Distressed", cursive;
+
 }
 .box-container h1 {
   text-align: left;
   background-color: rgba(255, 255, 255, 0.185);
-  font-family: "Rubik Distressed", cursive;
+
 }
 .header {
   display: flex;
@@ -386,7 +386,7 @@ hr {
     width: 100%;
   }
   .exp {
-    height: 130vh !important;
+    height: 140vh !important;
     background: rgb(236, 236, 236);
     display: flex;
     justify-content: center;
@@ -399,7 +399,7 @@ hr {
     align-items: flex-start;
   }
   .Gallery-box {
-    height: 115vh !important;
+    height: 120vh !important;
     width: 90%;
     margin: 0% 5%;
   }
