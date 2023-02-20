@@ -3,7 +3,7 @@
 * {
   padding: none;
   margin: none;
-  font-family: "Satisfy", cursive;
+font-family: 'Times New Roman', Times, serif;
 }
 .main {
   background-image: url(../public/img/forest.jpg);
@@ -56,7 +56,7 @@
 }
 .header .blong a {
   text-decoration: none;
-  font-family: "Dancing Script", cursive;
+
   font-style: italic;
   font-weight: 600;
   color: black;
@@ -75,7 +75,7 @@
   text-decoration: none;
   color: black;
   font-style: italic;
-  font-family: "Dancing Script", cursive;
+
 }
 .header nav a:last-child {
   padding-right: 0px;
@@ -297,6 +297,7 @@ hr {
 }
 .ct-container div p {
   color: white;
+  font-style: italic;
 }
 .ct-container div p a {
   color: white;
@@ -319,7 +320,7 @@ hr {
 @media only screen and (max-width: 450px) {
   .header .blong a {
     text-decoration: none;
-    font-family: "Dancing Script", cursive;
+  
     font-style: italic;
     font-weight: 600;
     color: black;
@@ -520,7 +521,7 @@ hr {
 @media only screen and (max-width: 768px) {
   .header .blong a {
       text-decoration: none;
-      font-family: "Dancing Script", cursive;
+    
       font-style: italic;
       font-weight: 600;
       color: black;
