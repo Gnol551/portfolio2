@@ -517,10 +517,10 @@ hr {
     flex-direction: column;
   }
   .main{
-    background-color: #A1A1A1;
+    background-color: #A1A1A1 !important;
   }
   .main-2{
-    background: none;
+    display: none;
   }
 }
 
@@ -652,7 +652,7 @@ hr {
       padding-top: 3%;
   }
       .contact-box {
-      height: 45vh;
+      height: 700px;
       background: #333333;
   }
       .box-container {
