@@ -517,7 +517,8 @@ hr {
     flex-direction: column;
   }
   .main{
-    background-image: #A1A1A1 !important;
+    background-color: #A1A1A1 ;
+    background-image: none;
   }
   .main-2{
     display: none;
