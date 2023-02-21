@@ -447,7 +447,7 @@ hr {
     padding-top: 3%;
   }
   .contact-box {
-    height: 700px;
+    height: 500px;
     background: #333333;
   }
   .box-container {
@@ -517,7 +517,7 @@ hr {
     flex-direction: column;
   }
   .main{
-    background-color: #A1A1A1 !important;
+    background-image: #A1A1A1 !important;
   }
   .main-2{
     display: none;
@@ -652,7 +652,7 @@ hr {
       padding-top: 3%;
   }
       .contact-box {
-      height: 700px;
+      height: 500px;
       background: #333333;
   }
       .box-container {
