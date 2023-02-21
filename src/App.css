@@ -355,7 +355,7 @@ hr {
     margin-bottom: 50px;
   }
   .about {
-    height: 150vh !important;
+    height: 1200px !important;
   }
   .box-about div:last-child {
     width: 100%;
@@ -387,7 +387,7 @@ hr {
     width: 100%;
   }
   .exp {
-    height: 140vh !important;
+    height: 1100px !important;
     background: rgb(236, 236, 236);
     display: flex;
     justify-content: center;
@@ -400,7 +400,7 @@ hr {
     align-items: flex-start;
   }
   .Gallery-box {
-    height: 120vh !important;
+    height: 1000px !important;
     width: 90%;
     margin: 0% 5%;
   }
@@ -447,7 +447,7 @@ hr {
     padding-top: 3%;
   }
   .contact-box {
-    height: 45vh;
+    height: 700px;
     background: #333333;
   }
   .box-container {
@@ -515,6 +515,12 @@ hr {
   .menu-mobile-box div {
     display: flex;
     flex-direction: column;
+  }
+  .main{
+    background-color: #A1A1A1;
+  }
+  .main-2{
+    background: none;
   }
 }
 
