@@ -679,7 +679,7 @@ hr {
       justify-content: space-between;
       padding: 10px 0%;
       background: rgb(226, 226, 226);
-      position: sticky ;
+      position: sticky !important ;
       top: 0;
       z-index: 100;
   }
