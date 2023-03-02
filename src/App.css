@@ -679,7 +679,7 @@ hr {
       justify-content: space-between;
       padding: 10px 0%;
       background: rgb(226, 226, 226);
-      position: sticky !important;
+      position: sticky ;
       top: 0;
       z-index: 100;
   }
@@ -695,7 +695,7 @@ hr {
           margin-left: 5%;
   }
   .mobile-menu {
-    display: block ;
+    display: block !important;
     width: 10%;
   }
   .mobile-menu img {
