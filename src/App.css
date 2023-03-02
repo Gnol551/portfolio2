@@ -471,7 +471,9 @@ hr {
     justify-content: space-between;
     padding: 10px 0%;
     background: rgb(226, 226, 226);
-    position: relative;
+    position: sticky;
+    top: 0;
+    z-index: 100;
   }
   .header nav {
     width: 10%;
@@ -677,7 +679,9 @@ hr {
       justify-content: space-between;
       padding: 10px 0%;
       background: rgb(226, 226, 226);
-      position: relative ;
+      position: sticky;
+      top: 0;
+      z-index: 100;
   }
       .header nav {
       width: 10%;
